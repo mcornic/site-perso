@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: red;
+}
+
+.bold-white {
+    color: white;
+    font-weight: bold;
+}
+
+#header {
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
